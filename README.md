@@ -1,3 +1,6 @@
+<img width="1066" height="594" alt="Executive_Overview" src="https://github.com/user-attachments/assets/2081e1a8-2b89-4d1a-94b8-dca1cc162a47" />
+
+
 # 📊 Retail Performance Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview
